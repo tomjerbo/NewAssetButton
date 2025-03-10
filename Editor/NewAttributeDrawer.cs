@@ -10,7 +10,7 @@ namespace Jerbo.Inspector
     {
         const string DEFAULT_SAVE_PATH = "Assets/Scriptable Objects"; // Change to your local folder for scriptable objects
         const string BUTTON_TEXT = "New";
-        const string DEFAULT_ICON_PATH = "New Button Icon";
+        const string DEFAULT_ICON_PATH = "Default New Asset Icon";
         const bool ONLY_SHOW_BUTTON_ON_NULL_VALUE = false;
         
         readonly Type assetType = typeof(ScriptableObject);
